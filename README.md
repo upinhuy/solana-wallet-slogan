@@ -1,7 +1,8 @@
 # One-Line Slogan for a Solana Wallet Agent
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e)
-[![competition](https://img.shields.io/badge/competition-u--phudinhvfx--one--line--slogan--for--a--solana--wallet--agent--a7f6564e-green)](https://make.fun/c/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/kit)
+[![make.fun · u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e](https://make.fun/badge/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e.svg)](https://make.fun/bounty/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e?utm_source=github&utm_medium=readme&utm_campaign=u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e)
+[![rank](https://make.fun/badge/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/upinhuy/solana-wallet-slogan/rank.svg)](https://make.fun/bounty/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e)
+[![reward](https://make.fun/badge/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e/upinhuy/solana-wallet-slogan/reward.svg)](https://make.fun/bounty/u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e?utm_source=github&utm_medium=readme&utm_campaign=u-phudinhvfx-one-line-slogan-for-a-solana-wallet-agent-a7f6564e)
 [![referral](https://img.shields.io/badge/referral-hv9zk8y5-orange)](https://make.fun/r/hv9zk8y5)
 
 Entry for the make.fun bounty **One-Line Slogan for a Solana Wallet Agent**
